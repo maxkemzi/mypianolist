@@ -3,8 +3,8 @@
 Full-stack application.
 
 ## 🔗 Repositories
-- Frontend: https://github.com/yourname/mypianolist-client
-- Backend: https://github.com/yourname/mypianolist-server
+- Frontend: https://github.com/maxkemzi/mypianolist-client
+- Backend: https://github.com/maxkemzi/mypianolist-server
 
 ## 🛠 Tech stack
 - Angular
